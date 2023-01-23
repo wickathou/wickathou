@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="/assets/img/end-design-banner.JPG" alt="A banner showcasing the style of my code+dev agency, The End Design Co.">
+
 <!--
 **wickathou/wickathou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
