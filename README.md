@@ -9,7 +9,7 @@
 - [🚀 Past clients ](#-past-clients-)
 
 # 💻 About myself <a name="brief-portfolio"></a>
-I'm a Web Developer with experience in Mechanical Engineering, Product Design and Marketing
+I'm a Web Developer with experience in Mechanical Engineering, Product Design and Marketing.
 I run a design and development agency called [The End Design Co.](http://enddesign.co/) and I'm part of [Growth Division](http://growth-division.com/) Marketing Development team.
 
 I'm available for new projects, feel free to reach out in case you believe I can help your business.
@@ -38,7 +38,7 @@ printTopTenClients(allClients)
 // Tristan Gillen - https://www.tristangillen.com/
 // Alex Macintosh - https://www.alexmacintosh.com/
 // Growth Division - http://growth-division.com/
-// Growth DAO - https://www.growth-dao.com//)
+// Growth DAO - https://www.growth-dao.com/
 // Ted’s Health - https://www.tedshealth.com/
 // Pixie - https://www.usepixie.com/
 // Little Bridge - https://www.littlebridge.com/
