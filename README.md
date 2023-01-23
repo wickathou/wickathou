@@ -12,7 +12,7 @@
 I'm a Web Developer with experience in Mechanical Engineering, Product Design and Marketing
 I run a design and development agency called [The End Design Co.](http://enddesign.co/) and I'm part of [Growth Division](http://growth-division.com/) Marketing Development team.
 
-Feel free to reach out in case you believe I can help your business.
+I'm available for new projects, feel free to reach out in case you believe I can help your business.
 [Choose a convenient time for a 30-minute call here (Link to my Calendly)](https://ly.enddesign.co/intro) or send me an email at [javier@enddesign.co](mailto:javier@enddesign.co)
 
 
