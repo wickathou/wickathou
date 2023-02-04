@@ -49,4 +49,4 @@ printTopTenClients(allClients)
 printTotalClientsCount(allClients)
 // +50
 ```
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/wickathou/count.svg)
