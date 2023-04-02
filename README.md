@@ -50,4 +50,4 @@ printTotalClientsCount(allClients)
 // +50
 ```
 ![Visitor Count](https://profile-counter.glitch.me/wickathou/count.svg)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wickathou&show_icons=true&locale=en&layout=compact" alt="wickathou" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wickathou&langs_count=10&show_icons=true&locale=en&layout=compact" alt="wickathou" /></p>
