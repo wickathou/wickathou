@@ -30,10 +30,10 @@ Figma (& Design systems)
 ## Learning
 Snowpack | Astro
 ```
-# 🚀 Past clients <a name="clients"></a>
+# 🚀 My clients <a name="clients"></a>
 
 ```
-printTopTenClients(allClients)
+printTopClients(allClients)
 
 // Tristan Gillen - https://www.tristangillen.com/
 // Alex Macintosh - https://www.alexmacintosh.com/
