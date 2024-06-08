@@ -19,32 +19,41 @@ I'm available for new projects, feel free to reach out in case you believe I can
 # 🛠 My skillset <a name="my-skillset"></a>
 ```
 ## Web Development
-JS | TS | Ruby | React | Ruby on Rails
+JS | TS | Python | Ruby | React | Next | Ruby on Rails | Unity ads
 
 ## Customization
 Webflow | Wix | Unbounce
 
-## Web Design
+## Web Design + Frontend pipelines
 Figma (Tokens, Autolayout & Design systems)
 ```
 # 🚀 My clients <a name="clients"></a>
 
-```
-printTopClients(allClients)
+[Junction](https://www.hackjunction.com/)
 
-// Tristan Gillen - https://www.tristangillen.com/
-// Alex Macintosh - https://www.alexmacintosh.com/
-// Growth Division - http://growth-division.com/
-// Growth DAO - https://www.growth-dao.com/
-// Ted’s Health - https://www.tedshealth.com/
-// Pixie - https://www.usepixie.com/
-// Little Bridge - https://www.littlebridge.com/
-// Etiq - https://etiq.ai/
-// Surreal - https://eatsurreal.co.uk/
-// The Product Refinery - https://www.theproductrefinery.com/
+[Tristan Gillen](https://www.tristangillen.com/)
 
-printTotalClientsCount(allClients)
-// +50
-```
+[Alex Macintosh](https://www.alexmacintosh.com/)
+
+[Growth Division](http://growth-division.com/)
+
+[Growth DAO](https://www.growth-dao.com/)
+
+[Ted’s Health](https://www.tedshealth.com/)
+
+[Pixie](https://www.usepixie.com/)
+
+[Little Bridge](https://www.littlebridge.com/)
+
+[Etiq](https://etiq.ai/)
+
+[Surreal](https://eatsurreal.co.uk/)
+
+[The Product Refinery](https://www.theproductrefinery.com/)
+
+...
+
+You are visitor no:
+
 ![Visitor Count](https://profile-counter.glitch.me/wickathou/count.svg)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wickathou&langs_count=10&show_icons=true&locale=en&layout=compact" alt="wickathou" /></p>
