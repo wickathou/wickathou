@@ -39,6 +39,8 @@ Figma (Tokens, Autolayout & Design systems)
 
 [Growth DAO](https://www.growth-dao.com/)
 
+[Musiversal](https://www.musiversal.com/)
+
 [Ted’s Health](https://www.tedshealth.com/)
 
 [Pixie](https://www.usepixie.com/)
