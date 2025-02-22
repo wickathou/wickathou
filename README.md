@@ -18,14 +18,13 @@ I'm available for new projects, feel free to reach out in case you believe I can
 
 # 🛠 My skillset <a name="my-skillset"></a>
 ```
-## Web Development
-JS | TS | Python | Ruby | React | Next | Ruby on Rails | Unity ads
-
-## Customization
-Webflow | Wix | Unbounce
-
-## Web Design + Frontend pipelines
-Figma (Tokens, Autolayout & Design systems)
+Languages: JS | Bash | Python | Ruby
+Frameworks: React | Next | Rails | Flask
+DBs: Posgresql | Mongo | Redis
+Testing: Cypress | Jest | RSpec
+Infra: Heroku | Fly.io | Digital Ocean | Azure | AWS
+Server config: Nginx | UFW | Docker
+Monitoring: LogRocket | Posthog | Sentry | PM2
 ```
 # 🚀 My clients <a name="clients"></a>
 
