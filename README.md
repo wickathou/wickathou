@@ -4,7 +4,7 @@
 
 ### 💻 About me
 I code and more
-**DevRel** @[Diploi.com](https://diploi.com)
+**DevRel & Growth** @[Diploi.com](https://diploi.com)
 
 </br>
 
