@@ -16,7 +16,7 @@ JS | TS | Python | Ruby | Bash
 </br>
 
 ### 🚀 I worked with
-[Junction](https://www.hackjunction.com/) | [Surreal](https://eatsurreal.co.uk/) | [Growth Division](http://growth-division.com/) | [Tristan Gillen](https://www.tristangillen.com/) | [Musiversal](https://www.musiversal.com/) | [Pixie](https://www.usepixie.com/) | [Etiq](https://etiq.ai/)
+[Junction](https://www.hackjunction.com/) | [Surreal](https://eatsurreal.co.uk/) | [Growth Division](http://growth-division.com/) | [Tristan Gillen](https://www.tristangillen.com/) | [Musiversal](https://www.musiversal.com/) | [Pixie](https://www.usepixie.com/) | [Etiq](https://etiq.ai/) | And many more 😌
 
 </br>
 
